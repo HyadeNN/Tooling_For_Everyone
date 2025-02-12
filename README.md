@@ -15,7 +15,7 @@ The primary goal of this tooling project is to provide a centralized dashboard f
 ## 🏗️ Project Structure
 
 ```
-LifeMote Tooling/
+Tooling For Everyone/
 │
 ├── celery-worker/               # Asynchronous task worker
 │   ├── Dockerfile
