@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-Lifemote Tooling is a comprehensive microservice management and deployment platform designed to simplify service lifecycle management, versioning, and monitoring.
+"Tooling For Everyone" is a comprehensive microservice management and deployment platform designed to simplify service lifecycle management, versioning, and monitoring.
 
 ## 📋 Project Purpose
 
