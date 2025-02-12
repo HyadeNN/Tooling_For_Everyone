@@ -1,4 +1,4 @@
-# Lifemote Tooling
+# Tooling For Everyone
 
 ## 🚀 Project Overview
 
@@ -122,8 +122,8 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/HyadeNN/lifemote-tooling.git
-cd lifemote-tooling
+git clone https://github.com/HyadeNN/Tooling_For_Everyone.git
+cd Tooling_For_Everyone
 ```
 
 ### 2. Environment Configuration
@@ -228,7 +228,7 @@ Distributed under the Custom Restrictive Software License. See `LICENSE` for mor
 
 Hüseyin Efe Karagöz - [huseyinefekaragoz@hyadenn.com](mailto:huseyinefekaragoz@hyadenn.com)
 
-Project Link: [https://github.com/HyadeNN/lifemote-tooling](https://github.com/HyadeNN/lifemote-tooling)
+Project Link: [https://github.com/HyadeNN/Tooling_For_Everyone](https://github.com/HyadeNN/Tooling_For_Everyone)
 
 ## Usage Restrictions
 
